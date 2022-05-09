@@ -1,0 +1,2 @@
+beginner_tutorials:catkin_simple:rpg_dvs_ros/davis_ros_driver:rpg_dvs_ros/dvs_calibration:rpg_dvs_ros/dvs_calibration_gui:rpg_dvs_ros/dvs_file_writer:rpg_dvs_ros/dvs_msgs:rpg_dvs_ros/dvs_renderer:rpg_dvs_ros/dvs_ros_driver:rpg_dvs_ros/dvxplorer_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/tresjsph/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tresjsph/catkin_ws/install -G Unix Makefiles
